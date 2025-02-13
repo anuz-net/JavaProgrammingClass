@@ -15,23 +15,23 @@ public class SwitchCalculator {
         
         switch(button){
             case 1:
-            System.out.println(add);
+            System.out.println("Your Answer is :" + add);
             break;
 
             case 2:
-            System.out.println(sub);
+            System.out.println("Your Answer is :" + sub);
             break;
 
             case 3:
-            System.out.println(mul);
+            System.out.println("Your Answer is :" + mul);
             break;
 
             case 4:
-            System.out.println(div);
+            System.out.println("Your Answer is :" + div);
             break;
 
             case 5:
-            System.out.println(mod);
+            System.out.println("Your Answer is :" + mod);
             break;
 
         }

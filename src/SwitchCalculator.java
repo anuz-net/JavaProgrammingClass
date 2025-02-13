@@ -33,6 +33,9 @@ public class SwitchCalculator {
             case 5:
             System.out.println("Your Answer is :" + mod);
             break;
+            
+            default:
+            System.out.println("Invalid Command");
 
         }
     }

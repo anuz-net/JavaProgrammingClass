@@ -1,13 +1,13 @@
-Java Practice Questions
+## Java Practice Questions
 
-Fundamentals:
+## Fundamentals:
 1.	Define Java. Explain the buzzwords/ features of Java.
 2.	Expalin JVM, JRE, and JDK.
 3.	What is byte code? Compare and contrast procedural and object-oriented programming language.
 4.	Explain the history of Java.
 5.	Compare and contrast applet and application.
 
-Control Statements:
+## Control Statements:
 6.	Write a Java program to check whether a given number is positive, negative, or zero using if-else.
 7.	Write a Java program to find the greatest of three numbers using if-else.
 8.	Write a Java program to check whether a given number is even or odd using if-else.
@@ -32,7 +32,7 @@ Control Statements:
 
 11.	Write a Java program to implement a menu-driven calculator using a switch statement.
 
-Array:
+## Array:
 
 12.	Write a program to find the sum of all elements in an array.
 13.	Write a Java program to find the largest and smallest element in an array.
@@ -43,7 +43,7 @@ Array:
 18.	Implement a function to remove duplicate elements from an array.
 19.	Write a Java program to merge two sorted arrays into one sorted array.
 
-Command line argument
+## Command line argument
 
 20.	Write a Java program that takes two numbers as command-line arguments and prints their sum. If the arguments are not numbers, display an error message
 21.	Write a Java program that accepts multiple numbers as command-line arguments and performs the following operations:
@@ -51,7 +51,7 @@ Command line argument
 2.	Finds the maximum and minimum numbers.
 3.	Displays an error message if any input is not a valid integer.
 
-Type conversion and casting
+## Type conversion and casting
 22.	Write a Java program demonstrating implicit type conversion by assigning an int value to a double variable. Print both values.
 23.	Write a Java program to convert a double to an integer using explicit type casting. Print both values.
 24.	Write a Java program to convert a float to int using explicit type casting. Print both values.

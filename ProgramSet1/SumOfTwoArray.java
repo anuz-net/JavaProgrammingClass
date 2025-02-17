@@ -1,4 +1,5 @@
 // Sum of Array nikalnee edi ..
+import java.util.Scanner;
 public class SumOfTwoArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

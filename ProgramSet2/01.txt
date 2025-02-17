@@ -1,0 +1,58 @@
+Java Practice Questions
+
+Fundamentals:
+1.	Define Java. Explain the buzzwords/ features of Java.
+2.	Expalin JVM, JRE, and JDK.
+3.	What is byte code? Compare and contrast procedural and object-oriented programming language.
+4.	Explain the history of Java.
+5.	Compare and contrast applet and application.
+
+Control Statements:
+6.	Write a Java program to check whether a given number is positive, negative, or zero using if-else.
+7.	Write a Java program to find the greatest of three numbers using if-else.
+8.	Write a Java program to check whether a given number is even or odd using if-else.
+9.	Write a Java program to print the day of the week using a switch statement.
+10.	Write a Java program to display "Pass" if a student's marks are 40 or more; otherwise display "Fail".
+
+11.	Write a Java program to print the first 10 natural numbers using a for loop.
+12.	Write a Java program to calculate the factorial of a number using a while loop.
+13.	Write a Java program to reverse a given number using a while loop.
+14.	Write a Java program to check if a given number is prime using a for loop.
+15.	Write a Java program to print numbers from 1 to 100, but skip multiples of 5 using the continue statement.
+
+16.	Write a Java program to print the Fibonacci series up to n terms using a for loop.
+17.	Write a Java program to check whether a number is a palindrome or not using a while loop.
+18.	Write a Java program to find the sum of digits of a number using a while loop.
+19.	Write a Java program to display a pattern like the following using nested loops:
+*
+**
+***
+****
+*****
+
+11.	Write a Java program to implement a menu-driven calculator using a switch statement.
+
+Array:
+
+12.	Write a program to find the sum of all elements in an array.
+13.	Write a Java program to find the largest and smallest element in an array.
+14.	Write a Java program to reverse an array without using an additional array.
+15.	Write a Java program to sort an array in ascending order.
+16.	Write a program to find the second largest number in an array.
+17.	Write a Java method to check if the sum of two array elements is equal or not.
+18.	Implement a function to remove duplicate elements from an array.
+19.	Write a Java program to merge two sorted arrays into one sorted array.
+
+Command line argument
+
+20.	Write a Java program that takes two numbers as command-line arguments and prints their sum. If the arguments are not numbers, display an error message
+21.	Write a Java program that accepts multiple numbers as command-line arguments and performs the following operations:
+1.	Calculates the sum of all numbers.
+2.	Finds the maximum and minimum numbers.
+3.	Displays an error message if any input is not a valid integer.
+
+Type conversion and casting
+22.	Write a Java program demonstrating implicit type conversion by assigning an int value to a double variable. Print both values.
+23.	Write a Java program to convert a double to an integer using explicit type casting. Print both values.
+24.	Write a Java program to convert a float to int using explicit type casting. Print both values.
+

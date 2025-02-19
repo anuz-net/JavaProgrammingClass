@@ -1,0 +1,1 @@
+// 12.	Write a Java program to calculate the factorial of a number using a while loop. 

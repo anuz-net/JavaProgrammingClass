@@ -14,8 +14,8 @@
 9.	Write a Java program to print the day of the week using a switch statement. ✅
 10.	Write a Java program to display "Pass" if a student's marks are 40 or more; otherwise display "Fail".  ✅
 
-11.	Write a Java program to print the first 10 natural numbers using a for loop.
-12.	Write a Java program to calculate the factorial of a number using a while loop.
+11.	Write a Java program to print the first 10 natural numbers using a for loop.✅
+
 13.	Write a Java program to reverse a given number using a while loop.
 14.	Write a Java program to check if a given number is prime using a for loop.
 15.	Write a Java program to print numbers from 1 to 100, but skip multiples of 5 using the continue statement.

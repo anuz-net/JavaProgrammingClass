@@ -12,13 +12,17 @@ public class Factorial {
         sc.close();
     }
     public void CheckFactorial(int num){
-        int i =0;
-        int fact=1;
-        while(i<=num){
-            fact = fact * i;
+        if(num<0){
+            System.out.println("Not an Poitive Integer");
+            return;
+        }
+        int i = 1;
+        int fact = 1;
+        while (i<=num) {
+            fact = fact*i;
             i++;
         }
-        System.out.println("Factorial of "+num+" is "+fact);
+        System.out.println("Factorial is " + fact);
         
     }
 

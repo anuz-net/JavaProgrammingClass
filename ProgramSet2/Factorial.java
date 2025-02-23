@@ -14,6 +14,12 @@ public class Factorial {
     public void CheckFactorial(int num){
         int i =0;
         int fact=1;
+        while(i<=num){
+            fact = fact * i;
+            i++;
+        }
+        System.out.println("Factorial of "+num+" is "+fact);
+        
     }
 
 }

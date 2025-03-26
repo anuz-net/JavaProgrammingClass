@@ -4,15 +4,18 @@ public class Factorial {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a positive number: ");
         int n = scanner.nextInt();
-               if (n < 0) {
-            System.out.println("Error!");
-        } else {
-            int factorial = 1;
-            for (int i = 1; i <= n; i++) {
-                factorial *= i;
-            }
-            System.out.println("Factorial of " + n + " is: " + factorial);
-        }
-
+        System.out.println("The factorial is "+factorial(n));
     }
+        public void int factorial(int num)
+            {
+            if(num==0)
+            {
+                return 1;
+            }
+            else
+            {
+                return num* factorial(num-1);
+            }
+            
+            }
 }

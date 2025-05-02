@@ -4,12 +4,11 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Pra {
-    public Pra() throws FontFormatException {
+    public Pra() {
         JFrame frame = new JFrame();
         frame.setTitle("Login Page");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JLabel label = new JLabel("User Login");
-        label.setFont(new Font("Poppins", "Sans-Serif", Font.BOLD, 20));
 
 
         frame.add(label);
